@@ -1,6 +1,7 @@
 Run Project 
 
-Backend : npm start
-Frontend : npm run
+Backend : npm start 
 
-<!-- I have not added Google Login and cloud deploy -->
+Frontend : npm run dev
+
+I have not added Google Login and cloud deploy
